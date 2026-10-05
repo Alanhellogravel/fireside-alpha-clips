@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 20:43:55 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,50 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal... #2</title>
+      <description>Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal milestone for an automated AI researcher was 2027 to 2028, the labs are on track or ahead of it, and most code is already AI-written and barely checked  "At my last job, I was, in some sense, working to https://t.co/IUkCcP9Vqm</description>
+      <itunes:summary>Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal milestone for an automated AI researcher was 2027 to 2028, the labs are on track or ahead of it, and most code is already AI-written and barely checked  "At my last job, I was, in some sense, working to https://t.co/IUkCcP9Vqm</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107190838556238289</link>
+      <guid isPermaLink="false">2107165760733028353</guid>
+      <pubDate>Mon, 05 Oct 2026 19:27:00 GMT</pubDate>
+      <itunes:duration>1:09</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107165760733028353.mp3" length="1102722" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal... #1</title>
+      <description>Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal milestone for an automated AI researcher was 2027 to 2028, the labs are on track or ahead of it, and most code is already AI-written and barely checked  "At my last job, I was, in some sense, working to https://t.co/IUkCcP9Vqm</description>
+      <itunes:summary>Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal milestone for an automated AI researcher was 2027 to 2028, the labs are on track or ahead of it, and most code is already AI-written and barely checked  "At my last job, I was, in some sense, working to https://t.co/IUkCcP9Vqm</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107190838556238289</link>
+      <guid isPermaLink="false">2107175859929182208</guid>
+      <pubDate>Mon, 05 Oct 2026 19:27:00 GMT</pubDate>
+      <itunes:duration>1:22</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107175859929182208.mp3" length="1309194" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jacob Coxon says he left Anthropic scared of two things: nobody can c... #2</title>
+      <description>Jacob Coxon says he left Anthropic scared of two things: nobody can control AI yet, and next year's models will be able to improve themselves  "Yeah, I'm Jacob Coxon. So until a few weeks ago, I was a capabilities researcher at Anthropic. And before that, I also worked at https://t.co/t2yv9YafhV</description>
+      <itunes:summary>Jacob Coxon says he left Anthropic scared of two things: nobody can control AI yet, and next year's models will be able to improve themselves  "Yeah, I'm Jacob Coxon. So until a few weeks ago, I was a capabilities researcher at Anthropic. And before that, I also worked at https://t.co/t2yv9YafhV</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107166143609995763</link>
+      <guid isPermaLink="false">2107165000825794560</guid>
+      <pubDate>Mon, 05 Oct 2026 17:48:52 GMT</pubDate>
+      <itunes:duration>0:57</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107165000825794560.mp3" length="907535" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - ex-Anthropic Jacob Coxon says that on the current path humanity more ... #2</title>
+      <description>ex-Anthropic Jacob Coxon says that on the current path humanity more likely than not loses control of AI  "So all the AI companies are trying to build super intelligent AI. This means AIs that are better than humans at every task."  "If this goes well, there could be tremendous https://t.co/zVgITpsCWJ</description>
+      <itunes:summary>ex-Anthropic Jacob Coxon says that on the current path humanity more likely than not loses control of AI  "So all the AI companies are trying to build super intelligent AI. This means AIs that are better than humans at every task."  "If this goes well, there could be tremendous https://t.co/zVgITpsCWJ</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107165411028738109</link>
+      <guid isPermaLink="false">2107164353069977600</guid>
+      <pubDate>Mon, 05 Oct 2026 17:45:57 GMT</pubDate>
+      <itunes:duration>0:37</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107164353069977600.mp3" length="587796" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, ... #2</title>
       <description>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</description>
@@ -125,6 +169,28 @@
       <pubDate>Sat, 03 Oct 2026 19:01:19 GMT</pubDate>
       <itunes:duration>1:16</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261003-2106446269145366528.mp3" length="1211667" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Anthropic's Sholto Douglas says AI capex could rise from $1 trillion ... #2</title>
+      <description>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</description>
+      <itunes:summary>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2106147215047856255</link>
+      <guid isPermaLink="false">2106107049155379200</guid>
+      <pubDate>Fri, 02 Oct 2026 22:20:01 GMT</pubDate>
+      <itunes:duration>0:30</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261002-2106107049155379200.mp3" length="483306" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Anthropic's Sholto Douglas says AI capex could rise from $1 trillion ... #1</title>
+      <description>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</description>
+      <itunes:summary>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2106147215047856255</link>
+      <guid isPermaLink="false">2106146617351168000</guid>
+      <pubDate>Fri, 02 Oct 2026 22:20:01 GMT</pubDate>
+      <itunes:duration>0:55</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261002-2106146617351168000.mp3" length="872844" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Mark Zuckerberg says Meta trains discretion into Muse so it can book ... #2</title>
