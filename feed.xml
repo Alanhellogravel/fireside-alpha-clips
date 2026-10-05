@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 06:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:45:55 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,50 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, ... #2</title>
+      <description>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</description>
+      <itunes:summary>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107136049084617204</link>
+      <guid isPermaLink="false">2106936008734588928</guid>
+      <pubDate>Mon, 05 Oct 2026 15:49:17 GMT</pubDate>
+      <itunes:duration>1:38</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2106936008734588928.mp3" length="1567251" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, ... #1</title>
+      <description>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</description>
+      <itunes:summary>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107136049084617204</link>
+      <guid isPermaLink="false">2107135622393876481</guid>
+      <pubDate>Mon, 05 Oct 2026 15:49:17 GMT</pubDate>
+      <itunes:duration>1:00</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107135622393876481.mp3" length="952851" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - $META Devansh Tandon reveals the tokens-in, engagement-out flywheel b... #1</title>
+      <description>$META Devansh Tandon reveals the tokens-in, engagement-out flywheel behind Meta's recommendation system, where better models lift Reels watch time 30% and the monetization pays for the next training run  "These scaling curves aren't just academic research. They're driving real https://t.co/qAmf555Ows</description>
+      <itunes:summary>$META Devansh Tandon reveals the tokens-in, engagement-out flywheel behind Meta's recommendation system, where better models lift Reels watch time 30% and the monetization pays for the next training run  "These scaling curves aren't just academic research. They're driving real https://t.co/qAmf555Ows</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107082123215810862</link>
+      <guid isPermaLink="false">2106958100754472960</guid>
+      <pubDate>Mon, 05 Oct 2026 12:15:00 GMT</pubDate>
+      <itunes:duration>1:30</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2106958100754472960.mp3" length="1442105" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Vinod Khosla reveals Sam Altman admitted nobody tells him where he is... #2</title>
+      <description>Vinod Khosla reveals Sam Altman admitted nobody tells him where he is “screwing up,” and explains why startups fail when private doubts go unspoken  “By the way, I was just talking to Sam Altman. He was here earlier this week. We were having dinner. I said, ‘Sam, your hardest https://t.co/31rISxccT5</description>
+      <itunes:summary>Vinod Khosla reveals Sam Altman admitted nobody tells him where he is “screwing up,” and explains why startups fail when private doubts go unspoken  “By the way, I was just talking to Sam Altman. He was here earlier this week. We were having dinner. I said, ‘Sam, your hardest https://t.co/31rISxccT5</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2106936588408353140</link>
+      <guid isPermaLink="false">2106885115364450304</guid>
+      <pubDate>Mon, 05 Oct 2026 02:36:42 GMT</pubDate>
+      <itunes:duration>1:14</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2106885115364450304.mp3" length="1179795" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Jim Chanos explains why this AI boom carries more financial risk than... #1</title>
       <description>Jim Chanos explains why this AI boom carries more financial risk than almost any boom in history  “So, my friend Paul Kedrosky, I don’t know if you heard him recently, he had a wonderful point."  "I teach the history of financial-market fraud, but as part of it, we teach https://t.co/TeV3BYaUPF</description>
@@ -81,6 +125,28 @@
       <pubDate>Sat, 03 Oct 2026 19:01:19 GMT</pubDate>
       <itunes:duration>1:16</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261003-2106446269145366528.mp3" length="1211667" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Mark Zuckerberg says Meta trains discretion into Muse so it can book ... #2</title>
+      <description>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</description>
+      <itunes:summary>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2103989849795760274</link>
+      <guid isPermaLink="false">2103923944822824960</guid>
+      <pubDate>Sat, 26 Sep 2026 23:27:25 GMT</pubDate>
+      <itunes:duration>0:39</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260926-2103923944822824960.mp3" length="618725" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Mark Zuckerberg says Meta trains discretion into Muse so it can book ... #1</title>
+      <description>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</description>
+      <itunes:summary>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2103989849795760274</link>
+      <guid isPermaLink="false">2103989826559328256</guid>
+      <pubDate>Sat, 26 Sep 2026 23:27:25 GMT</pubDate>
+      <itunes:duration>0:57</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260926-2103989826559328256.mp3" length="915894" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Tom Brady says everyone in a player's life tells him how good he is, ... #2</title>
