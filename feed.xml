@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:47:04 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,83 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Ben Affleck reveals he writes Python, understands convolutional neura... #2</title>
+      <description>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</description>
+      <itunes:summary>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107562044824359341</link>
+      <guid isPermaLink="false">2107512249019723776</guid>
+      <pubDate>Tue, 06 Oct 2026 20:02:02 GMT</pubDate>
+      <itunes:duration>0:58</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107512249019723776.mp3" length="921328" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Ben Affleck reveals he writes Python, understands convolutional neura... #1</title>
+      <description>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</description>
+      <itunes:summary>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107562044824359341</link>
+      <guid isPermaLink="false">2107561480195637248</guid>
+      <pubDate>Tue, 06 Oct 2026 20:02:02 GMT</pubDate>
+      <itunes:duration>1:30</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107561480195637248.mp3" length="1436671" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jamie Dimon says the AI buildout will ultimately pay off but governme... #2</title>
+      <description>Jamie Dimon says the AI buildout will ultimately pay off but government borrowing is consuming scarce capital and could drive inflation   “When we went through the internet, in total it paid off. But there’ll be better models, better semiconductors and changing schedules. https://t.co/SvZNyGAi2Z</description>
+      <itunes:summary>Jamie Dimon says the AI buildout will ultimately pay off but government borrowing is consuming scarce capital and could drive inflation   “When we went through the internet, in total it paid off. But there’ll be better models, better semiconductors and changing schedules. https://t.co/SvZNyGAi2Z</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107559014745907358</link>
+      <guid isPermaLink="false">2107546561488244737</guid>
+      <pubDate>Tue, 06 Oct 2026 19:50:00 GMT</pubDate>
+      <itunes:duration>0:12</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107546561488244737.mp3" length="193661" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jamie Dimon says the AI buildout will ultimately pay off but governme... #1</title>
+      <description>Jamie Dimon says the AI buildout will ultimately pay off but government borrowing is consuming scarce capital and could drive inflation   “When we went through the internet, in total it paid off. But there’ll be better models, better semiconductors and changing schedules. https://t.co/SvZNyGAi2Z</description>
+      <itunes:summary>Jamie Dimon says the AI buildout will ultimately pay off but government borrowing is consuming scarce capital and could drive inflation   “When we went through the internet, in total it paid off. But there’ll be better models, better semiconductors and changing schedules. https://t.co/SvZNyGAi2Z</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107559014745907358</link>
+      <guid isPermaLink="false">2107547435715485696</guid>
+      <pubDate>Tue, 06 Oct 2026 19:50:00 GMT</pubDate>
+      <itunes:duration>1:01</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107547435715485696.mp3" length="972737" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jacob Coxon says Anthropic employees call themselves “ants” and sacri... #2</title>
+      <description>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</description>
+      <itunes:summary>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107553950312570946</link>
+      <guid isPermaLink="false">2107548478914367488</guid>
+      <pubDate>Tue, 06 Oct 2026 19:29:52 GMT</pubDate>
+      <itunes:duration>0:26</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107548478914367488.mp3" length="424374" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jacob Coxon says Anthropic employees call themselves “ants” and sacri... #1</title>
+      <description>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</description>
+      <itunes:summary>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107553950312570946</link>
+      <guid isPermaLink="false">2107553213100752897</guid>
+      <pubDate>Tue, 06 Oct 2026 19:29:52 GMT</pubDate>
+      <itunes:duration>1:01</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107553213100752897.mp3" length="972737" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jamie Dimon reveals Anthropic’s Mythos increased JPMorgan’s biggest r... #2</title>
+      <description>Jamie Dimon reveals Anthropic’s Mythos increased JPMorgan’s biggest risk tenfold  “Oh, yeah. That’s what I’m saying. Mythos—whatever you thought it was before—when I published my chairman’s letter, I said cyber was our biggest risk, and they hadn’t published Mythos yet. I would https://t.co/9wyyWJGyRt</description>
+      <itunes:summary>Jamie Dimon reveals Anthropic’s Mythos increased JPMorgan’s biggest risk tenfold  “Oh, yeah. That’s what I’m saying. Mythos—whatever you thought it was before—when I published my chairman’s letter, I said cyber was our biggest risk, and they hadn’t published Mythos yet. I would https://t.co/9wyyWJGyRt</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107546932575150130</link>
+      <guid isPermaLink="false">2107508160106000386</guid>
+      <pubDate>Tue, 06 Oct 2026 19:01:59 GMT</pubDate>
+      <itunes:duration>0:53</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107508160106000386.mp3" length="851946" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Ray Dalio says AI could democratize hedge-fund alpha and let a two-be... #1</title>
       <description>Ray Dalio says AI could democratize hedge-fund alpha and let a two-bedroom-apartment startup rival the industry’s giants  “You’re referring to my creating Bridgewater and building Bridgewater, which I think is still the largest hedge fund in the world. I think we are now entering https://t.co/5Dh6FxEUb2</description>
