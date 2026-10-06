@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 20:43:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:43:07 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,17 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Meta's Shane Cahill says $META has committed most of its compute to s... #1</title>
+      <description>Meta's Shane Cahill says $META has committed most of its compute to serving people rather than racing toward recursive self-improvement  "Thank you very much for the question. In relation to the quote from Mr. Altman that you read out, I don't see it the same way. We absolutely https://t.co/xXeXYSjEhs</description>
+      <itunes:summary>Meta's Shane Cahill says $META has committed most of its compute to serving people rather than racing toward recursive self-improvement  "Thank you very much for the question. In relation to the quote from Mr. Altman that you read out, I don't see it the same way. We absolutely https://t.co/xXeXYSjEhs</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107220071181599231</link>
+      <guid isPermaLink="false">2107219485447094272</guid>
+      <pubDate>Mon, 05 Oct 2026 21:23:09 GMT</pubDate>
+      <itunes:duration>1:00</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107219485447094272.mp3" length="968557" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal... #2</title>
       <description>Ex-Anthropic and OpenAI researcher Jacob Coxon says OpenAI's internal milestone for an automated AI researcher was 2027 to 2028, the labs are on track or ahead of it, and most code is already AI-written and barely checked  "At my last job, I was, in some sense, working to https://t.co/IUkCcP9Vqm</description>
