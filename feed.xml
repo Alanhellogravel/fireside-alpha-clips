@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:45:16 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,39 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Ray Dalio says AI could democratize hedge-fund alpha and let a two-be... #1</title>
+      <description>Ray Dalio says AI could democratize hedge-fund alpha and let a two-bedroom-apartment startup rival the industry’s giants  “You’re referring to my creating Bridgewater and building Bridgewater, which I think is still the largest hedge fund in the world. I think we are now entering https://t.co/5Dh6FxEUb2</description>
+      <itunes:summary>Ray Dalio says AI could democratize hedge-fund alpha and let a two-bedroom-apartment startup rival the industry’s giants  “You’re referring to my creating Bridgewater and building Bridgewater, which I think is still the largest hedge fund in the world. I think we are now entering https://t.co/5Dh6FxEUb2</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107507683352100873</link>
+      <guid isPermaLink="false">2107507348906635266</guid>
+      <pubDate>Tue, 06 Oct 2026 16:26:01 GMT</pubDate>
+      <itunes:duration>1:28</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107507348906635266.mp3" length="1413684" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Scott Galloway warns Sam Altman and Dario Amodei that if their bots k... #1</title>
+      <description>Scott Galloway warns Sam Altman and Dario Amodei that if their bots kill people they're going to prison, just like the owners of two dogs that mauled a lacrosse player 25 years ago  "I just find it so obnoxious that these individuals claim these bots are sentient."  "Sharon https://t.co/ESdRUQDVSO</description>
+      <itunes:summary>Scott Galloway warns Sam Altman and Dario Amodei that if their bots kill people they're going to prison, just like the owners of two dogs that mauled a lacrosse player 25 years ago  "I just find it so obnoxious that these individuals claim these bots are sentient."  "Sharon https://t.co/ESdRUQDVSO</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107482177147715832</link>
+      <guid isPermaLink="false">2107481085605289984</guid>
+      <pubDate>Tue, 06 Oct 2026 14:44:40 GMT</pubDate>
+      <itunes:duration>1:02</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107481085605289984.mp3" length="997396" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Mohnish Pabrai reveals selling his 1% Ferrari stake turned a roughly ... #1</title>
+      <description>Mohnish Pabrai reveals selling his 1% Ferrari stake turned a roughly $6 million investment into a billion-dollar mistake, and says Ferrari is a business that should never be sold  “The 1% of Ferrari was bought for less than $10 million. When I look back, it was probably closer to https://t.co/SXkaAMGgu7</description>
+      <itunes:summary>Mohnish Pabrai reveals selling his 1% Ferrari stake turned a roughly $6 million investment into a billion-dollar mistake, and says Ferrari is a business that should never be sold  “The 1% of Ferrari was bought for less than $10 million. When I look back, it was probably closer to https://t.co/SXkaAMGgu7</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107305765581324332</link>
+      <guid isPermaLink="false">2107305442989031424</guid>
+      <pubDate>Tue, 06 Oct 2026 03:03:41 GMT</pubDate>
+      <itunes:duration>1:10</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107305442989031424.mp3" length="1126546" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Meta's Shane Cahill says $META has committed most of its compute to s... #1</title>
       <description>Meta's Shane Cahill says $META has committed most of its compute to serving people rather than racing toward recursive self-improvement  "Thank you very much for the question. In relation to the quote from Mr. Altman that you read out, I don't see it the same way. We absolutely https://t.co/xXeXYSjEhs</description>
@@ -202,6 +235,28 @@
       <pubDate>Fri, 02 Oct 2026 22:20:01 GMT</pubDate>
       <itunes:duration>0:55</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261002-2106146617351168000.mp3" length="872844" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Bill Ackman explains how AI changes the risk of owning dominant compa... #2</title>
+      <description>Bill Ackman explains how AI changes the risk of owning dominant companies  “The most important thing an investor has to do is assess the risk. I mean, the value of a business is the present value of the cash it generates over its life. And its life, the early years of the life https://t.co/o1jytVTMHG</description>
+      <itunes:summary>Bill Ackman explains how AI changes the risk of owning dominant companies  “The most important thing an investor has to do is assess the risk. I mean, the value of a business is the present value of the cash it generates over its life. And its life, the early years of the life https://t.co/o1jytVTMHG</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2104959991853806076</link>
+      <guid isPermaLink="false">2086911094191464448</guid>
+      <pubDate>Tue, 29 Sep 2026 15:42:24 GMT</pubDate>
+      <itunes:duration>6:21</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260929-2086911094191464448.mp3" length="6098170" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Bill Ackman explains how AI changes the risk of owning dominant compa... #1</title>
+      <description>Bill Ackman explains how AI changes the risk of owning dominant companies  “The most important thing an investor has to do is assess the risk. I mean, the value of a business is the present value of the cash it generates over its life. And its life, the early years of the life https://t.co/o1jytVTMHG</description>
+      <itunes:summary>Bill Ackman explains how AI changes the risk of owning dominant companies  “The most important thing an investor has to do is assess the risk. I mean, the value of a business is the present value of the cash it generates over its life. And its life, the early years of the life https://t.co/o1jytVTMHG</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2104959991853806076</link>
+      <guid isPermaLink="false">2104959745077710848</guid>
+      <pubDate>Tue, 29 Sep 2026 15:42:24 GMT</pubDate>
+      <itunes:duration>1:08</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260929-2104959745077710848.mp3" length="1088093" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Mark Zuckerberg says Meta trains discretion into Muse so it can book ... #2</title>
