@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:46:30 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,39 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - $QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its ... #2</title>
+      <description>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</description>
+      <itunes:summary>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107864545679351869</link>
+      <guid isPermaLink="false">2107684776069246976</guid>
+      <pubDate>Wed, 07 Oct 2026 16:04:04 GMT</pubDate>
+      <itunes:duration>0:50</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107684776069246976.mp3" length="803475" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - $QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its ... #1</title>
+      <description>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</description>
+      <itunes:summary>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107864545679351869</link>
+      <guid isPermaLink="false">2107864508777840640</guid>
+      <pubDate>Wed, 07 Oct 2026 16:04:04 GMT</pubDate>
+      <itunes:duration>1:34</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107864508777840640.mp3" length="1508883" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Sam Altman admits power is a closer explanation than money for why he... #1</title>
+      <description>Sam Altman admits power is a closer explanation than money for why he runs OpenAI, and compares himself to an athlete working for "love of the game"  “The thing I get out of doing this is that I think I have the most interesting, coolest, most impactful job that anyone in the https://t.co/84upVzjkk5</description>
+      <itunes:summary>Sam Altman admits power is a closer explanation than money for why he runs OpenAI, and compares himself to an athlete working for "love of the game"  “The thing I get out of doing this is that I think I have the most interesting, coolest, most impactful job that anyone in the https://t.co/84upVzjkk5</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107835860272189753</link>
+      <guid isPermaLink="false">2107835458617217024</guid>
+      <pubDate>Wed, 07 Oct 2026 14:10:05 GMT</pubDate>
+      <itunes:duration>1:09</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107835458617217024.mp3" length="1102227" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Michael Bloomberg says AI can unlock 20,000 terminal functions throug... #1</title>
       <description>Michael Bloomberg says AI can unlock 20,000 terminal functions through a spoken phone request while professional traders still prefer keyboards since they can do that faster than you can talk  “The terminal itself, nothing changes. The computer it goes back to, from any place in https://t.co/lVJZiWt98P</description>
