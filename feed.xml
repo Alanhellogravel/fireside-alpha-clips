@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:42:32 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,61 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - $NVDA VP Bryan Catanzaro reveals Nemotron uses DeepSeek, GPT-OSS, Qwe... #1</title>
+      <description>$NVDA VP Bryan Catanzaro reveals Nemotron uses DeepSeek, GPT-OSS, Qwen, MiniMax and GLM as teacher models before reinforcement learning in 15 environments   “Then we go through supervised fine-tuning. This is where we start the post-training process. We’re using a lot of https://t.co/iXkpc5Gh94</description>
+      <itunes:summary>$NVDA VP Bryan Catanzaro reveals Nemotron uses DeepSeek, GPT-OSS, Qwen, MiniMax and GLM as teacher models before reinforcement learning in 15 environments   “Then we go through supervised fine-tuning. This is where we start the post-training process. We’re using a lot of https://t.co/iXkpc5Gh94</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107919137486049288</link>
+      <guid isPermaLink="false">2107904007641714689</guid>
+      <pubDate>Wed, 07 Oct 2026 19:41:00 GMT</pubDate>
+      <itunes:duration>0:50</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107904007641714689.mp3" length="800537" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - President Trump says he loves autonomous subs like Anduril's because ... #1</title>
+      <description>President Trump says he loves autonomous subs like Anduril's because he isn't sure he'd have the courage to go down in one himself, and reveals what's coming in the next five years are things "nobody would ever believe"  "And I love the idea of the autonomous sub. Who ever heard https://t.co/Btm6sq2vdK</description>
+      <itunes:summary>President Trump says he loves autonomous subs like Anduril's because he isn't sure he'd have the courage to go down in one himself, and reveals what's coming in the next five years are things "nobody would ever believe"  "And I love the idea of the autonomous sub. Who ever heard https://t.co/Btm6sq2vdK</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107908593022595287</link>
+      <guid isPermaLink="false">2107908201299775488</guid>
+      <pubDate>Wed, 07 Oct 2026 18:59:06 GMT</pubDate>
+      <itunes:duration>0:36</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107908201299775488.mp3" length="576093" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - $GOOG AI infrastructure chief Amin Vahdat says long-horizon agents re... #1</title>
+      <description>$GOOG AI infrastructure chief Amin Vahdat says long-horizon agents remove the human rate limit and are sending CPU, networking, and storage demand through the roof  “Now, in long-horizon agents, there’s no human in the loop to naturally rate-limit how quickly requests are going https://t.co/y5EZ5WAEHu</description>
+      <itunes:summary>$GOOG AI infrastructure chief Amin Vahdat says long-horizon agents remove the human rate limit and are sending CPU, networking, and storage demand through the roof  “Now, in long-horizon agents, there’s no human in the loop to naturally rate-limit how quickly requests are going https://t.co/y5EZ5WAEHu</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107902588029165748</link>
+      <guid isPermaLink="false">2107902110625120256</guid>
+      <pubDate>Wed, 07 Oct 2026 18:35:14 GMT</pubDate>
+      <itunes:duration>1:17</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107902110625120256.mp3" length="1238977" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagsh... #2</title>
+      <description>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</description>
+      <itunes:summary>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107897375511703880</link>
+      <guid isPermaLink="false">2107884289648205824</guid>
+      <pubDate>Wed, 07 Oct 2026 18:14:31 GMT</pubDate>
+      <itunes:duration>0:49</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107884289648205824.mp3" length="779667" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagsh... #1</title>
+      <description>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</description>
+      <itunes:summary>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107897375511703880</link>
+      <guid isPermaLink="false">2107896871155056640</guid>
+      <pubDate>Wed, 07 Oct 2026 18:14:31 GMT</pubDate>
+      <itunes:duration>0:55</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107896871155056640.mp3" length="877971" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - $QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its ... #2</title>
       <description>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</description>
