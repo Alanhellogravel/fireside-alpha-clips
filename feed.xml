@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:47:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:37:58 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,17 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Michael Bloomberg says AI can unlock 20,000 terminal functions throug... #1</title>
+      <description>Michael Bloomberg says AI can unlock 20,000 terminal functions through a spoken phone request while professional traders still prefer keyboards since they can do that faster than you can talk  “The terminal itself, nothing changes. The computer it goes back to, from any place in https://t.co/lVJZiWt98P</description>
+      <itunes:summary>Michael Bloomberg says AI can unlock 20,000 terminal functions through a spoken phone request while professional traders still prefer keyboards since they can do that faster than you can talk  “The terminal itself, nothing changes. The computer it goes back to, from any place in https://t.co/lVJZiWt98P</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2107614381341298700</link>
+      <guid isPermaLink="false">2107599444707540992</guid>
+      <pubDate>Tue, 06 Oct 2026 23:30:00 GMT</pubDate>
+      <itunes:duration>1:03</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107599444707540992.mp3" length="1011603" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Ben Affleck reveals he writes Python, understands convolutional neura... #2</title>
       <description>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</description>
