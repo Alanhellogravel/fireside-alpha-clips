@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:00:02 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,28 +16,6 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>Fireside Alpha - Jeff Bezos says "success is not villainy," pointing to the Raising Ca... #1</title>
-      <description>Jeff Bezos says "success is not villainy," pointing to the Raising Cane's founder who became a billionaire selling chicken tenders  "Well, I think, you know, we live in an environment where, you know, some people have come to, they've been taught, I think incorrectly, but they've https://t.co/G0CT293MwW</description>
-      <itunes:summary>Jeff Bezos says "success is not villainy," pointing to the Raising Cane's founder who became a billionaire selling chicken tenders  "Well, I think, you know, we live in an environment where, you know, some people have come to, they've been taught, I think incorrectly, but they've https://t.co/G0CT293MwW</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107992701434265973</link>
-      <guid isPermaLink="false">2107992473012461568</guid>
-      <pubDate>Thu, 08 Oct 2026 00:33:19 GMT</pubDate>
-      <itunes:duration>0:51</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261008-2107992473012461568.mp3" length="812307" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Jensen Huang predicts AI agents will become better users of software ... #1</title>
-      <description>Jensen Huang predicts AI agents will become better users of software than humans because they know every single feature while we may know 10-15%  “What’s amazing is that these agents are going to be better users of tools than us. The reason for that is we know 10, 15 percent of https://t.co/YrowS2kOlH</description>
-      <itunes:summary>Jensen Huang predicts AI agents will become better users of software than humans because they know every single feature while we may know 10-15%  “What’s amazing is that these agents are going to be better users of tools than us. The reason for that is we know 10, 15 percent of https://t.co/YrowS2kOlH</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107960157682418146</link>
-      <guid isPermaLink="false">2107944458532818944</guid>
-      <pubDate>Wed, 07 Oct 2026 22:24:00 GMT</pubDate>
-      <itunes:duration>0:33</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107944458532818944.mp3" length="530118" type="audio/mpeg" />
-    </item>
     <item>
       <title>Fireside Alpha - $NVDA Jensen Huang @ Microsoft Windows Event: full segment w/ Satya Nadella and Sriram Krishnan</title>
       <description>$NVDA Jensen Huang @ Microsoft Windows Event
@@ -54,28 +32,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107940668001947648.mp3" length="22883829" type="audio/mpeg" />
     </item>
     <item>
-      <title>Fireside Alpha - $NVDA VP Bryan Catanzaro reveals Nemotron uses DeepSeek, GPT-OSS, Qwe... #1</title>
-      <description>$NVDA VP Bryan Catanzaro reveals Nemotron uses DeepSeek, GPT-OSS, Qwen, MiniMax and GLM as teacher models before reinforcement learning in 15 environments   “Then we go through supervised fine-tuning. This is where we start the post-training process. We’re using a lot of https://t.co/iXkpc5Gh94</description>
-      <itunes:summary>$NVDA VP Bryan Catanzaro reveals Nemotron uses DeepSeek, GPT-OSS, Qwen, MiniMax and GLM as teacher models before reinforcement learning in 15 environments   “Then we go through supervised fine-tuning. This is where we start the post-training process. We’re using a lot of https://t.co/iXkpc5Gh94</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107919137486049288</link>
-      <guid isPermaLink="false">2107904007641714689</guid>
-      <pubDate>Wed, 07 Oct 2026 19:41:00 GMT</pubDate>
-      <itunes:duration>0:50</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107904007641714689.mp3" length="800537" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - President Trump says he loves autonomous subs like Anduril's because ... #1</title>
-      <description>President Trump says he loves autonomous subs like Anduril's because he isn't sure he'd have the courage to go down in one himself, and reveals what's coming in the next five years are things "nobody would ever believe"  "And I love the idea of the autonomous sub. Who ever heard https://t.co/Btm6sq2vdK</description>
-      <itunes:summary>President Trump says he loves autonomous subs like Anduril's because he isn't sure he'd have the courage to go down in one himself, and reveals what's coming in the next five years are things "nobody would ever believe"  "And I love the idea of the autonomous sub. Who ever heard https://t.co/Btm6sq2vdK</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107908593022595287</link>
-      <guid isPermaLink="false">2107908201299775488</guid>
-      <pubDate>Wed, 07 Oct 2026 18:59:06 GMT</pubDate>
-      <itunes:duration>0:36</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107908201299775488.mp3" length="576093" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Fireside Alpha - $GOOG AI infrastructure chief Amin Vahdat says long-horizon agents re... #1</title>
       <description>$GOOG AI infrastructure chief Amin Vahdat says long-horizon agents remove the human rate limit and are sending CPU, networking, and storage demand through the roof  “Now, in long-horizon agents, there’s no human in the loop to naturally rate-limit how quickly requests are going https://t.co/y5EZ5WAEHu</description>
       <itunes:summary>$GOOG AI infrastructure chief Amin Vahdat says long-horizon agents remove the human rate limit and are sending CPU, networking, and storage demand through the roof  “Now, in long-horizon agents, there’s no human in the loop to naturally rate-limit how quickly requests are going https://t.co/y5EZ5WAEHu</itunes:summary>
@@ -85,39 +41,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Wed, 07 Oct 2026 18:35:14 GMT</pubDate>
       <itunes:duration>1:17</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107902110625120256.mp3" length="1238977" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagsh... #2</title>
-      <description>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</description>
-      <itunes:summary>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107897375511703880</link>
-      <guid isPermaLink="false">2107884289648205824</guid>
-      <pubDate>Wed, 07 Oct 2026 18:14:31 GMT</pubDate>
-      <itunes:duration>0:49</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107884289648205824.mp3" length="779667" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagsh... #1</title>
-      <description>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</description>
-      <itunes:summary>Bombardier CEO Éric Martel reveals 27-year-olds are buying the flagship Global 8000 as AI creates more billionaires  “It’s a very significant change that is happening right now. There’s a significant creation of wealth. Just all the AI companies, many more billionaires. We track, https://t.co/09ZtRIoEqC</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107897375511703880</link>
-      <guid isPermaLink="false">2107896871155056640</guid>
-      <pubDate>Wed, 07 Oct 2026 18:14:31 GMT</pubDate>
-      <itunes:duration>0:55</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107896871155056640.mp3" length="877971" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - $QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its ... #2</title>
-      <description>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</description>
-      <itunes:summary>$QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its AI glasses, and says multiple frontier labs and hyperscalers will launch personal AI devices in the next six to nine months, including cameras and microphones on employee badges  Michael Sikand: “I’d be curious https://t.co/9I5WdZexSq</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107864545679351869</link>
-      <guid isPermaLink="false">2107684776069246976</guid>
-      <pubDate>Wed, 07 Oct 2026 16:04:04 GMT</pubDate>
-      <itunes:duration>0:50</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261007-2107684776069246976.mp3" length="803475" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - $QCOM Qualcomm CFO reveals Meta will introduce a watch alongside its ... #1</title>
@@ -153,17 +76,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107599444707540992.mp3" length="1011603" type="audio/mpeg" />
     </item>
     <item>
-      <title>Fireside Alpha - Ben Affleck reveals he writes Python, understands convolutional neura... #2</title>
-      <description>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</description>
-      <itunes:summary>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107562044824359341</link>
-      <guid isPermaLink="false">2107512249019723776</guid>
-      <pubDate>Tue, 06 Oct 2026 20:02:02 GMT</pubDate>
-      <itunes:duration>0:58</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107512249019723776.mp3" length="921328" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Fireside Alpha - Ben Affleck reveals he writes Python, understands convolutional neura... #1</title>
       <description>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</description>
       <itunes:summary>Ben Affleck reveals he writes Python, understands convolutional neural networks, worked extensively with GPUs, and used his celebrity status to get private looks at Google and OpenAI’s video models  “I’ve always been kind of into computers since I was young. Then, when film https://t.co/RNXhuicAUM</itunes:summary>
@@ -173,17 +85,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Tue, 06 Oct 2026 20:02:02 GMT</pubDate>
       <itunes:duration>1:30</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107561480195637248.mp3" length="1436671" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Jamie Dimon says the AI buildout will ultimately pay off but governme... #2</title>
-      <description>Jamie Dimon says the AI buildout will ultimately pay off but government borrowing is consuming scarce capital and could drive inflation   “When we went through the internet, in total it paid off. But there’ll be better models, better semiconductors and changing schedules. https://t.co/SvZNyGAi2Z</description>
-      <itunes:summary>Jamie Dimon says the AI buildout will ultimately pay off but government borrowing is consuming scarce capital and could drive inflation   “When we went through the internet, in total it paid off. But there’ll be better models, better semiconductors and changing schedules. https://t.co/SvZNyGAi2Z</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107559014745907358</link>
-      <guid isPermaLink="false">2107546561488244737</guid>
-      <pubDate>Tue, 06 Oct 2026 19:50:00 GMT</pubDate>
-      <itunes:duration>0:12</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107546561488244737.mp3" length="193661" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Jamie Dimon says the AI buildout will ultimately pay off but governme... #1</title>
@@ -197,17 +98,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107547435715485696.mp3" length="972737" type="audio/mpeg" />
     </item>
     <item>
-      <title>Fireside Alpha - Jacob Coxon says Anthropic employees call themselves “ants” and sacri... #2</title>
-      <description>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</description>
-      <itunes:summary>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107553950312570946</link>
-      <guid isPermaLink="false">2107548478914367488</guid>
-      <pubDate>Tue, 06 Oct 2026 19:29:52 GMT</pubDate>
-      <itunes:duration>0:26</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107548478914367488.mp3" length="424374" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Fireside Alpha - Jacob Coxon says Anthropic employees call themselves “ants” and sacri... #1</title>
       <description>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</description>
       <itunes:summary>Jacob Coxon says Anthropic employees call themselves “ants” and sacrifice their careers for the company’s singular pursuit of superintelligence, while calling OpenAI "distracted and messy"  “At Anthropic, it felt a lot more like—well, for starters, the employees call themselves https://t.co/dAVHnhPaMx</itunes:summary>
@@ -217,17 +107,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Tue, 06 Oct 2026 19:29:52 GMT</pubDate>
       <itunes:duration>1:01</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107553213100752897.mp3" length="972737" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Jamie Dimon reveals Anthropic’s Mythos increased JPMorgan’s biggest r... #2</title>
-      <description>Jamie Dimon reveals Anthropic’s Mythos increased JPMorgan’s biggest risk tenfold  “Oh, yeah. That’s what I’m saying. Mythos—whatever you thought it was before—when I published my chairman’s letter, I said cyber was our biggest risk, and they hadn’t published Mythos yet. I would https://t.co/9wyyWJGyRt</description>
-      <itunes:summary>Jamie Dimon reveals Anthropic’s Mythos increased JPMorgan’s biggest risk tenfold  “Oh, yeah. That’s what I’m saying. Mythos—whatever you thought it was before—when I published my chairman’s letter, I said cyber was our biggest risk, and they hadn’t published Mythos yet. I would https://t.co/9wyyWJGyRt</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107546932575150130</link>
-      <guid isPermaLink="false">2107508160106000386</guid>
-      <pubDate>Tue, 06 Oct 2026 19:01:59 GMT</pubDate>
-      <itunes:duration>0:53</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261006-2107508160106000386.mp3" length="851946" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Ray Dalio says AI could democratize hedge-fund alpha and let a two-be... #1</title>
@@ -296,28 +175,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107175859929182208.mp3" length="1309194" type="audio/mpeg" />
     </item>
     <item>
-      <title>Fireside Alpha - Jacob Coxon says he left Anthropic scared of two things: nobody can c... #2</title>
-      <description>Jacob Coxon says he left Anthropic scared of two things: nobody can control AI yet, and next year's models will be able to improve themselves  "Yeah, I'm Jacob Coxon. So until a few weeks ago, I was a capabilities researcher at Anthropic. And before that, I also worked at https://t.co/t2yv9YafhV</description>
-      <itunes:summary>Jacob Coxon says he left Anthropic scared of two things: nobody can control AI yet, and next year's models will be able to improve themselves  "Yeah, I'm Jacob Coxon. So until a few weeks ago, I was a capabilities researcher at Anthropic. And before that, I also worked at https://t.co/t2yv9YafhV</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107166143609995763</link>
-      <guid isPermaLink="false">2107165000825794560</guid>
-      <pubDate>Mon, 05 Oct 2026 17:48:52 GMT</pubDate>
-      <itunes:duration>0:57</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107165000825794560.mp3" length="907535" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - ex-Anthropic Jacob Coxon says that on the current path humanity more ... #2</title>
-      <description>ex-Anthropic Jacob Coxon says that on the current path humanity more likely than not loses control of AI  "So all the AI companies are trying to build super intelligent AI. This means AIs that are better than humans at every task."  "If this goes well, there could be tremendous https://t.co/zVgITpsCWJ</description>
-      <itunes:summary>ex-Anthropic Jacob Coxon says that on the current path humanity more likely than not loses control of AI  "So all the AI companies are trying to build super intelligent AI. This means AIs that are better than humans at every task."  "If this goes well, there could be tremendous https://t.co/zVgITpsCWJ</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107165411028738109</link>
-      <guid isPermaLink="false">2107164353069977600</guid>
-      <pubDate>Mon, 05 Oct 2026 17:45:57 GMT</pubDate>
-      <itunes:duration>0:37</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107164353069977600.mp3" length="587796" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Fireside Alpha - Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, ... #2</title>
       <description>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</description>
       <itunes:summary>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</itunes:summary>
@@ -327,17 +184,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Mon, 05 Oct 2026 15:49:17 GMT</pubDate>
       <itunes:duration>1:38</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2106936008734588928.mp3" length="1567251" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, ... #1</title>
-      <description>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</description>
-      <itunes:summary>Adam Neumann says Marc Benioff urged him to reject SoftBank’s money, take WeWork public at $5 billion and learn how to be a public CEO--and predicted Neumann wouldn’t listen  “I used to be much closer to Marc Benioff, the founder of Salesforce. He heard about Masa’s offer, and he https://t.co/hNdNIL7rm2</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2107136049084617204</link>
-      <guid isPermaLink="false">2107135622393876481</guid>
-      <pubDate>Mon, 05 Oct 2026 15:49:17 GMT</pubDate>
-      <itunes:duration>1:00</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261005-2107135622393876481.mp3" length="952851" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - $META Devansh Tandon reveals the tokens-in, engagement-out flywheel b... #1</title>
@@ -384,28 +230,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261004-2106554133348265984.mp3" length="1746379" type="audio/mpeg" />
     </item>
     <item>
-      <title>Fireside Alpha - $COST Costco CFO reveals AI search is now its highest-converting traf... #2</title>
-      <description>$COST Costco CFO reveals AI search is now its highest-converting traffic, and the membership itself is one of the top things people search AI for  "While starting from a low base relative to other channels, AI continues to grow in its influence on how our members are searching https://t.co/GZY0mKOqK3</description>
-      <itunes:summary>$COST Costco CFO reveals AI search is now its highest-converting traffic, and the membership itself is one of the top things people search AI for  "While starting from a low base relative to other channels, AI continues to grow in its influence on how our members are searching https://t.co/GZY0mKOqK3</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2106524065079160867</link>
-      <guid isPermaLink="false">2106458785174945792</guid>
-      <pubDate>Sat, 03 Oct 2026 23:17:29 GMT</pubDate>
-      <itunes:duration>0:47</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261003-2106458785174945792.mp3" length="755475" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - $COST Costco CFO reveals AI search is now its highest-converting traf... #1</title>
-      <description>$COST Costco CFO reveals AI search is now its highest-converting traffic, and the membership itself is one of the top things people search AI for  "While starting from a low base relative to other channels, AI continues to grow in its influence on how our members are searching https://t.co/GZY0mKOqK3</description>
-      <itunes:summary>$COST Costco CFO reveals AI search is now its highest-converting traffic, and the membership itself is one of the top things people search AI for  "While starting from a low base relative to other channels, AI continues to grow in its influence on how our members are searching https://t.co/GZY0mKOqK3</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2106524065079160867</link>
-      <guid isPermaLink="false">2106523697024774144</guid>
-      <pubDate>Sat, 03 Oct 2026 23:17:29 GMT</pubDate>
-      <itunes:duration>0:37</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261003-2106523697024774144.mp3" length="597409" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Fireside Alpha - 49ers' Kyle Shanahan explains why his biggest scheme changes come fro... #1</title>
       <description>49ers' Kyle Shanahan explains why his biggest scheme changes come from players rather than coaches being geniuses, and why plays he hated seven years ago work again once defenses stop watching them  "But one thing I've learned like over the years that anytime I've changed the https://t.co/rojXt8kY7H</description>
       <itunes:summary>49ers' Kyle Shanahan explains why his biggest scheme changes come from players rather than coaches being geniuses, and why plays he hated seven years ago work again once defenses stop watching them  "But one thing I've learned like over the years that anytime I've changed the https://t.co/rojXt8kY7H</itunes:summary>
@@ -428,28 +252,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261003-2106446269145366528.mp3" length="1211667" type="audio/mpeg" />
     </item>
     <item>
-      <title>Fireside Alpha - Anthropic's Sholto Douglas says AI capex could rise from $1 trillion ... #2</title>
-      <description>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</description>
-      <itunes:summary>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2106147215047856255</link>
-      <guid isPermaLink="false">2106107049155379200</guid>
-      <pubDate>Fri, 02 Oct 2026 22:20:01 GMT</pubDate>
-      <itunes:duration>0:30</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261002-2106107049155379200.mp3" length="483306" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Anthropic's Sholto Douglas says AI capex could rise from $1 trillion ... #1</title>
-      <description>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</description>
-      <itunes:summary>Anthropic's Sholto Douglas says AI capex could rise from $1 trillion this year to $4 trillion in 2028 and begin doubling humanity’s GDP by the early 2030s  “Over the course of the last four or five years, we’ve been 2x-ing or 3x-ing the amount of compute capacity devoted to AI https://t.co/zAhqiMd5N1</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2106147215047856255</link>
-      <guid isPermaLink="false">2106146617351168000</guid>
-      <pubDate>Fri, 02 Oct 2026 22:20:01 GMT</pubDate>
-      <itunes:duration>0:55</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261002-2106146617351168000.mp3" length="872844" type="audio/mpeg" />
-    </item>
-    <item>
       <title>Fireside Alpha - Bill Ackman explains how AI changes the risk of owning dominant compa... #2</title>
       <description>Bill Ackman explains how AI changes the risk of owning dominant companies  “The most important thing an investor has to do is assess the risk. I mean, the value of a business is the present value of the cash it generates over its life. And its life, the early years of the life https://t.co/o1jytVTMHG</description>
       <itunes:summary>Bill Ackman explains how AI changes the risk of owning dominant companies  “The most important thing an investor has to do is assess the risk. I mean, the value of a business is the present value of the cash it generates over its life. And its life, the early years of the life https://t.co/o1jytVTMHG</itunes:summary>
@@ -470,50 +272,6 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Tue, 29 Sep 2026 15:42:24 GMT</pubDate>
       <itunes:duration>1:08</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260929-2104959745077710848.mp3" length="1088093" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Mark Zuckerberg says Meta trains discretion into Muse so it can book ... #2</title>
-      <description>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</description>
-      <itunes:summary>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2103989849795760274</link>
-      <guid isPermaLink="false">2103923944822824960</guid>
-      <pubDate>Sat, 26 Sep 2026 23:27:25 GMT</pubDate>
-      <itunes:duration>0:39</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260926-2103923944822824960.mp3" length="618725" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Mark Zuckerberg says Meta trains discretion into Muse so it can book ... #1</title>
-      <description>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</description>
-      <itunes:summary>Mark Zuckerberg says Meta trains discretion into Muse so it can book a restaurant reservation without disclosing your allergy or pregnancy, something off-the-shelf coding agents skip  "So, I mean, you have to train that into the model. I mean, just like any other capability, it https://t.co/Q7izz350jX</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2103989849795760274</link>
-      <guid isPermaLink="false">2103989826559328256</guid>
-      <pubDate>Sat, 26 Sep 2026 23:27:25 GMT</pubDate>
-      <itunes:duration>0:57</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260926-2103989826559328256.mp3" length="915894" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Tom Brady says everyone in a player's life tells him how good he is, ... #2</title>
-      <description>Tom Brady says everyone in a player's life tells him how good he is, so the head coach has to be the one who tells the truth  "A lot of guys have had so many people tell them how good they are. You're a high school player, you're probably the best player on your team, so it all https://t.co/dvL7Cos2hJ</description>
-      <itunes:summary>Tom Brady says everyone in a player's life tells him how good he is, so the head coach has to be the one who tells the truth  "A lot of guys have had so many people tell them how good they are. You're a high school player, you're probably the best player on your team, so it all https://t.co/dvL7Cos2hJ</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2099294216904192188</link>
-      <guid isPermaLink="false">2099269064812326912</guid>
-      <pubDate>Mon, 14 Sep 2026 00:28:38 GMT</pubDate>
-      <itunes:duration>0:56</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260914-2099269064812326912.mp3" length="894996" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>Fireside Alpha - Tom Brady says everyone in a player's life tells him how good he is, ... #1</title>
-      <description>Tom Brady says everyone in a player's life tells him how good he is, so the head coach has to be the one who tells the truth  "A lot of guys have had so many people tell them how good they are. You're a high school player, you're probably the best player on your team, so it all https://t.co/dvL7Cos2hJ</description>
-      <itunes:summary>Tom Brady says everyone in a player's life tells him how good he is, so the head coach has to be the one who tells the truth  "A lot of guys have had so many people tell them how good they are. You're a high school player, you're probably the best player on your team, so it all https://t.co/dvL7Cos2hJ</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://x.com/firesidealpha/status/2099294216904192188</link>
-      <guid isPermaLink="false">2099293427330699264</guid>
-      <pubDate>Mon, 14 Sep 2026 00:28:38 GMT</pubDate>
-      <itunes:duration>0:49</itunes:duration>
-      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260914-2099293427330699264.mp3" length="781311" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Gavin Baker says the physics PhDs calling orbital data centers imposs... #1</title>
