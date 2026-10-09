@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:56:58 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,39 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Palmer Luckey says inventors should stop arguing with experts who rej... #1</title>
+      <description>Palmer Luckey says inventors should stop arguing with experts who reject the future--and recalls the New York Times dismissing powered flight shortly before the Wright brothers succeeded  “It’s true with the public, but it’s especially true with experts. One of my favorite https://t.co/Rd99bpH88R</description>
+      <itunes:summary>Palmer Luckey says inventors should stop arguing with experts who reject the future--and recalls the New York Times dismissing powered flight shortly before the Wright brothers succeeded  “It’s true with the public, but it’s especially true with experts. One of my favorite https://t.co/Rd99bpH88R</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2108598614872268864</link>
+      <guid isPermaLink="false">2108583389351849984</guid>
+      <pubDate>Fri, 09 Oct 2026 16:41:00 GMT</pubDate>
+      <itunes:duration>1:06</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261009-2108583389351849984.mp3" length="1063443" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - $QCOM CFO says its Amazon deal strengthens the path to Qualcomm’s dat... #1</title>
+      <description>$QCOM CFO says its Amazon deal strengthens the path to Qualcomm’s data-center targets, while progress in “new areas” could drive a beat--and expects it to be reflected in the stock  “And we’ve given proof points now. We just talked about an Amazon deal. Very excited to discuss https://t.co/NYKNsnprDm</description>
+      <itunes:summary>$QCOM CFO says its Amazon deal strengthens the path to Qualcomm’s data-center targets, while progress in “new areas” could drive a beat--and expects it to be reflected in the stock  “And we’ve given proof points now. We just talked about an Amazon deal. Very excited to discuss https://t.co/NYKNsnprDm</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2108578033003057281</link>
+      <guid isPermaLink="false">2108577402385530880</guid>
+      <pubDate>Fri, 09 Oct 2026 15:19:13 GMT</pubDate>
+      <itunes:duration>1:00</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261009-2108577402385530880.mp3" length="965139" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - SemiAnalysis's Dylan Patel: enterprises have a "broken philosophy" be... #2</title>
+      <description>SemiAnalysis's Dylan Patel: enterprises have a "broken philosophy" because they'll spend six months to a year building custom AI systems that are already worse than foundation models by the time they finish  “I think a lot of people’s philosophy, especially a lot of enterprises’, https://t.co/qKKTzkLMjW</description>
+      <itunes:summary>SemiAnalysis's Dylan Patel: enterprises have a "broken philosophy" because they'll spend six months to a year building custom AI systems that are already worse than foundation models by the time they finish  “I think a lot of people’s philosophy, especially a lot of enterprises’, https://t.co/qKKTzkLMjW</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2108241237778280537</link>
+      <guid isPermaLink="false">2108220341281792000</guid>
+      <pubDate>Thu, 08 Oct 2026 17:00:54 GMT</pubDate>
+      <itunes:duration>1:02</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261008-2108220341281792000.mp3" length="990099" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - $NVDA Jensen Huang @ Microsoft Windows Event: full segment w/ Satya Nadella and Sriram Krishnan</title>
       <description>$NVDA Jensen Huang @ Microsoft Windows Event
