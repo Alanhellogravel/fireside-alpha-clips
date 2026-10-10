@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:45:23 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,17 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Starcloud CEO Philip Johnston hints at Microsoft news incoming re: it... #2</title>
+      <description>Starcloud CEO Philip Johnston hints at Microsoft news incoming re: its Dyson swarm, then says every hyperscaler will need access to space compute  Alex Wissner-Gross: “Microsoft, to my knowledge, doesn’t have a Dyson swarm.”  Philip Johnston: “They do not. Again, I have to be https://t.co/2YLkj5G7o5</description>
+      <itunes:summary>Starcloud CEO Philip Johnston hints at Microsoft news incoming re: its Dyson swarm, then says every hyperscaler will need access to space compute  Alex Wissner-Gross: “Microsoft, to my knowledge, doesn’t have a Dyson swarm.”  Philip Johnston: “They do not. Again, I have to be https://t.co/2YLkj5G7o5</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2108699200015986716</link>
+      <guid isPermaLink="false">2108673256853241856</guid>
+      <pubDate>Fri, 09 Oct 2026 23:20:41 GMT</pubDate>
+      <itunes:duration>1:23</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261009-2108673256853241856.mp3" length="1330707" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Palmer Luckey says inventors should stop arguing with experts who rej... #1</title>
       <description>Palmer Luckey says inventors should stop arguing with experts who reject the future--and recalls the New York Times dismissing powered flight shortly before the Wright brothers succeeded  “It’s true with the public, but it’s especially true with experts. One of my favorite https://t.co/Rd99bpH88R</description>
@@ -48,6 +59,17 @@
       <pubDate>Thu, 08 Oct 2026 17:00:54 GMT</pubDate>
       <itunes:duration>1:02</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261008-2108220341281792000.mp3" length="990099" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Jeff Bezos says don't skip steps on the way to Mars: the moon is a gi... #1</title>
+      <description>Jeff Bezos says don't skip steps on the way to Mars: the moon is a gift, three days away, has resources we can utilize, and takes 28 times less energy to launch from  "Well, I'm really glad to see the country put their energy behind the moon. Look, it's not good to skip steps. In https://t.co/FeJlQCOHc9</description>
+      <itunes:summary>Jeff Bezos says don't skip steps on the way to Mars: the moon is a gift, three days away, has resources we can utilize, and takes 28 times less energy to launch from  "Well, I'm really glad to see the country put their energy behind the moon. Look, it's not good to skip steps. In https://t.co/FeJlQCOHc9</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2108022995512156446</link>
+      <guid isPermaLink="false">2108022737168134144</guid>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 GMT</pubDate>
+      <itunes:duration>1:02</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261008-2108022737168134144.mp3" length="1000083" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - $NVDA Jensen Huang @ Microsoft Windows Event: full segment w/ Satya Nadella and Sriram Krishnan</title>
