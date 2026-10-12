@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 17:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:51:58 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,47 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Mark Zuckerberg says after talking to the leaders of all the AI labs,... #1</title>
+      <description>Mark Zuckerberg says after talking to the leaders of all the AI labs, his strong conviction was that Alexandr Wang was the ****ing guy to build Meta's frontier lab  "So I just kind of had this feeling like, all right, even though this is sort of, I think maybe when we got https://t.co/46xVFy68Jc</description>
+      <itunes:summary>Mark Zuckerberg says after talking to the leaders of all the AI labs, his strong conviction was that Alexandr Wang was the ****ing guy to build Meta's frontier lab  "So I just kind of had this feeling like, all right, even though this is sort of, I think maybe when we got https://t.co/46xVFy68Jc</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2109747357843886212</link>
+      <guid isPermaLink="false">2109746106024460289</guid>
+      <pubDate>Mon, 12 Oct 2026 20:45:41 GMT</pubDate>
+      <itunes:duration>1:11</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261012-2109746106024460289.mp3" length="1132397" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Martin Shkreli says quantum computers will never beat Nvidia machines...</title>
+      <description>Martin Shkreli says quantum computers will never beat Nvidia machines because the only thing they do faster is factoring numbers, a magic trick for nerds but not a business
+
+"And so if you ask somebody, which computer can sort a deck of cards? If anybody knows the famous https://t.co/z5cJg1vvHd</description>
+      <itunes:summary>Martin Shkreli says quantum computers will never beat Nvidia machines because the only thing they do faster is factoring numbers, a magic trick for nerds but not a business
+
+"And so if you ask somebody, which computer can sort a deck of cards? If anybody knows the famous https://t.co/z5cJg1vvHd</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2109698073882669195</link>
+      <guid isPermaLink="false">2109697661016432641</guid>
+      <pubDate>Mon, 12 Oct 2026 17:29:51 GMT</pubDate>
+      <itunes:duration>1:05</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261012-2109697661016432641.mp3" length="1037520" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Martin Shkreli says McDonald's could rationally spend $10 billion on GPUs...</title>
+      <description>Martin Shkreli says McDonald’s could rationally spend $10 billion on GPUs to choose its next sandwich, because there is no limit to demand for intelligence, and predicts OpenAI and Anthropic will start their own businesses until each one contains an entire S&amp;P 500
+
+"Yeah, there's https://t.co/u0HijScy0I</description>
+      <itunes:summary>Martin Shkreli says McDonald’s could rationally spend $10 billion on GPUs to choose its next sandwich, because there is no limit to demand for intelligence, and predicts OpenAI and Anthropic will start their own businesses until each one contains an entire S&amp;P 500
+
+"Yeah, there's https://t.co/u0HijScy0I</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2109696951214317756</link>
+      <guid isPermaLink="false">2109696353039503360</guid>
+      <pubDate>Mon, 12 Oct 2026 17:25:24 GMT</pubDate>
+      <itunes:duration>1:07</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261012-2109696353039503360.mp3" length="1073047" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - OpenAI's Tibo predicts AI could begin freeing people from phones with... #1</title>
       <description>OpenAI's Tibo predicts AI could begin freeing people from phones within a year, but warns it could instead concentrate power and financial returns  “What I'm most excited about is for the first time, we have this opportunity to free ourselves from technology in the way that it’s https://t.co/KkWr2R1xDa</description>
