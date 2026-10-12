@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:45:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:02:00 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,50 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - OpenAI's Tibo predicts AI could begin freeing people from phones with... #1</title>
+      <description>OpenAI's Tibo predicts AI could begin freeing people from phones within a year, but warns it could instead concentrate power and financial returns  “What I'm most excited about is for the first time, we have this opportunity to free ourselves from technology in the way that it’s https://t.co/KkWr2R1xDa</description>
+      <itunes:summary>OpenAI's Tibo predicts AI could begin freeing people from phones within a year, but warns it could instead concentrate power and financial returns  “What I'm most excited about is for the first time, we have this opportunity to free ourselves from technology in the way that it’s https://t.co/KkWr2R1xDa</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2109685194802471238</link>
+      <guid isPermaLink="false">2109683997416755200</guid>
+      <pubDate>Mon, 12 Oct 2026 16:38:41 GMT</pubDate>
+      <itunes:duration>1:32</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261012-2109683997416755200.mp3" length="1479699" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - SpaceX's Lee Robinson on the harness behind Grok Bot: "there's only o...</title>
+      <description>SpaceX's Lee Robinson on the harness behind Grok Bot: "there's only one tool that communicates between the client and the server - and it's just send to user"  This is him explaining why the agent sleeps until something wakes it, how sub-agents make a product feel like it has https://t.co/JQlxGWHDJn</description>
+      <itunes:summary>SpaceX's Lee Robinson on the harness behind Grok Bot: "there's only one tool that communicates between the client and the server - and it's just send to user"  This is him explaining why the agent sleeps until something wakes it, how sub-agents make a product feel like it has https://t.co/JQlxGWHDJn</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2109671749105373252</link>
+      <guid isPermaLink="false">2109671538182238208</guid>
+      <pubDate>Mon, 12 Oct 2026 15:45:15 GMT</pubDate>
+      <itunes:duration>15:07</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261012-2109671538182238208.mp3" length="14516883" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - SpaceX's Lee Robinson says every new product will either have an agen...</title>
+      <description>SpaceX's Lee Robinson says every new product will either have an agent side or become headless data for another agent, and each building block, from sandboxes and memory to payments and evals, has 20 startups chasing it  "So there's kind of these new building blocks to think https://t.co/4VhV359n3K</description>
+      <itunes:summary>SpaceX's Lee Robinson says every new product will either have an agent side or become headless data for another agent, and each building block, from sandboxes and memory to payments and evals, has 20 startups chasing it  "So there's kind of these new building blocks to think https://t.co/4VhV359n3K</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2109602982971019712</link>
+      <guid isPermaLink="false">2109520357392879617</guid>
+      <pubDate>Mon, 12 Oct 2026 11:12:00 GMT</pubDate>
+      <itunes:duration>1:19</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261012-2109520357392879617.mp3" length="1271187" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Qualcomm CEO reveals AI companies want phones running 100-billion-par... #2</title>
+      <description>Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028--and confirms some are building phones  Cristiano Amon: “I have to be careful not to disclose names, but some AI companies—some of the companies at the forefront of AI—are https://t.co/3Gded1a9Ld</description>
+      <itunes:summary>Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028--and confirms some are building phones  Cristiano Amon: “I have to be careful not to disclose names, but some AI companies—some of the companies at the forefront of AI—are https://t.co/3Gded1a9Ld</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2108930562794864912</link>
+      <guid isPermaLink="false">2108255138481901569</guid>
+      <pubDate>Sat, 10 Oct 2026 14:40:02 GMT</pubDate>
+      <itunes:duration>46:48</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261010-2108255138481901569.mp3" length="44929299" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Starcloud CEO Philip Johnston hints at Microsoft news incoming re: it... #2</title>
       <description>Starcloud CEO Philip Johnston hints at Microsoft news incoming re: its Dyson swarm, then says every hyperscaler will need access to space compute  Alex Wissner-Gross: “Microsoft, to my knowledge, doesn’t have a Dyson swarm.”  Philip Johnston: “They do not. Again, I have to be https://t.co/2YLkj5G7o5</description>
