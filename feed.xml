@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:04:59 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,17 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Paul Tudor Jones says markets are “literally exactly like 1999,” spli... #1</title>
+      <description>Paul Tudor Jones says markets are “literally exactly like 1999,” split between AI adopters and everyone else, and warns the path may be great short term but not long term  “It still feels like 1999: a two-speed market. You’ve got it completely, perfectly bifurcated in the sense https://t.co/Ay24ePWDxU</description>
+      <itunes:summary>Paul Tudor Jones says markets are “literally exactly like 1999,” split between AI adopters and everyone else, and warns the path may be great short term but not long term  “It still feels like 1999: a two-speed market. You’ve got it completely, perfectly bifurcated in the sense https://t.co/Ay24ePWDxU</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2110017648914583924</link>
+      <guid isPermaLink="false">2110017057031159808</guid>
+      <pubDate>Tue, 13 Oct 2026 14:39:44 GMT</pubDate>
+      <itunes:duration>1:40</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261013-2110017057031159808.mp3" length="1604691" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Mark Zuckerberg says after talking to the leaders of all the AI labs,... #1</title>
       <description>Mark Zuckerberg says after talking to the leaders of all the AI labs, his strong conviction was that Alexandr Wang was the ****ing guy to build Meta's frontier lab  "So I just kind of had this feeling like, all right, even though this is sort of, I think maybe when we got https://t.co/46xVFy68Jc</description>
@@ -412,6 +423,17 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Tue, 29 Sep 2026 15:42:24 GMT</pubDate>
       <itunes:duration>1:08</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260929-2104959745077710848.mp3" length="1088093" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - OpenAI's Head of Applied Research predicts a shortage of robot parts ... #1</title>
+      <description>OpenAI's Head of Applied Research predicts a shortage of robot parts like the graphics-card crunch as GPT-6 crushes robotics benchmarks and bodies are good enough  "I think with GPT-6, we've seen that the models are now just crushing a bunch of benchmarks in the robotics space, https://t.co/8TnASqdEKM</description>
+      <itunes:summary>OpenAI's Head of Applied Research predicts a shortage of robot parts like the graphics-card crunch as GPT-6 crushes robotics benchmarks and bodies are good enough  "I think with GPT-6, we've seen that the models are now just crushing a bunch of benchmarks in the robotics space, https://t.co/8TnASqdEKM</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2103909963785703777</link>
+      <guid isPermaLink="false">2103909417905541120</guid>
+      <pubDate>Sat, 26 Sep 2026 18:09:58 GMT</pubDate>
+      <itunes:duration>1:09</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260926-2103909417905541120.mp3" length="1103763" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Gavin Baker says the physics PhDs calling orbital data centers imposs... #1</title>
