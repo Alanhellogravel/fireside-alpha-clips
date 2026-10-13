@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:46:22 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,17 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - TikTok CEO reveals the overwhelming majority of short dramas are now ... #1</title>
+      <description>TikTok CEO reveals the overwhelming majority of short dramas are now AI-produced, and says AI cuts the cost of a video ad from $100-$1,000 to $1-$10  "Right now, you know, it costs, if you were a brand company, say you're selling a particular product and you want to post a video https://t.co/V31j8l0yqW</description>
+      <itunes:summary>TikTok CEO reveals the overwhelming majority of short dramas are now AI-produced, and says AI cuts the cost of a video ad from $100-$1,000 to $1-$10  "Right now, you know, it costs, if you were a brand company, say you're selling a particular product and you want to post a video https://t.co/V31j8l0yqW</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2110093112723095779</link>
+      <guid isPermaLink="false">2110092621830119424</guid>
+      <pubDate>Tue, 13 Oct 2026 19:39:36 GMT</pubDate>
+      <itunes:duration>1:09</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261013-2110092621830119424.mp3" length="1101050" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - Paul Tudor Jones says markets are “literally exactly like 1999,” spli... #1</title>
       <description>Paul Tudor Jones says markets are “literally exactly like 1999,” split between AI adopters and everyone else, and warns the path may be great short term but not long term  “It still feels like 1999: a two-speed market. You’ve got it completely, perfectly bifurcated in the sense https://t.co/Ay24ePWDxU</description>
@@ -467,6 +478,28 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Sat, 15 Aug 2026 00:06:44 GMT</pubDate>
       <itunes:duration>1:26</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260815-2088416397747683328.mp3" length="1378323" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Sam Altman reveals he deliberately got himself addicted to TikTok whi... #1</title>
+      <description>Sam Altman reveals he deliberately got himself addicted to TikTok while building Sora, then deleted it because it was too powerful like a drug.  "I deleted TikTok because it was just too powerful. Here's a crazy thing that happened. When we were building the Sora app, I made https://t.co/K6839fXQWn</description>
+      <itunes:summary>Sam Altman reveals he deliberately got himself addicted to TikTok while building Sora, then deleted it because it was too powerful like a drug.  "I deleted TikTok because it was just too powerful. Here's a crazy thing that happened. When we were building the Sora app, I made https://t.co/K6839fXQWn</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2081149998704521712</link>
+      <guid isPermaLink="false">2081140928870580224</guid>
+      <pubDate>Sat, 25 Jul 2026 22:50:00 GMT</pubDate>
+      <itunes:duration>1:04</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260725-2081140928870580224.mp3" length="1026653" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - $INTC Lip-Bu Tan: Bottleneck investor "The investment side, I ways l... #2</title>
+      <description>$INTC Lip-Bu Tan: Bottleneck investor  "The investment side, I ways look at where is the bottleneck? What are you trying to solve? For example, I invest in companies like Credo $CRDO or Astera Labs $ALAB, is this interconnect becoming the bottleneck? Because speed becomes more https://t.co/U6wNNIBezI</description>
+      <itunes:summary>$INTC Lip-Bu Tan: Bottleneck investor  "The investment side, I ways look at where is the bottleneck? What are you trying to solve? For example, I invest in companies like Credo $CRDO or Astera Labs $ALAB, is this interconnect becoming the bottleneck? Because speed becomes more https://t.co/U6wNNIBezI</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2071130149912039936</link>
+      <guid isPermaLink="false">2070875735187918848</guid>
+      <pubDate>Sun, 28 Jun 2026 07:14:42 GMT</pubDate>
+      <itunes:duration>2:16</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260628-2070875735187918848.mp3" length="2180115" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
