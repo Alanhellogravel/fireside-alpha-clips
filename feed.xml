@@ -5,7 +5,7 @@
     <link>https://alanhellogravel.github.io/fireside-alpha-clips/</link>
     <description>Personal audio clips from public posts by @firesidealpha on X. Not affiliated with the account.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 20:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:42:53 GMT</lastBuildDate>
     <generator>fireside-alpha-podcast/generate_feed.py</generator>
     <atom:link href="https://alanhellogravel.github.io/fireside-alpha-clips/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Fireside Alpha</itunes:author>
@@ -16,6 +16,28 @@
       <itunes:name>Fireside Alpha</itunes:name>
     </itunes:owner>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Fireside Alpha - Satya Nadella reveals it still haunts him that he sat through a Bill ... #1</title>
+      <description>Satya Nadella reveals it still haunts him that he sat through a Bill Gates review of an acquisition he thought was architecturally stupid and never made the case against it  "I remember another more consequential meeting. This was maybe 2008, 2009 maybe. Bill called a meeting. I https://t.co/RRxAeEvuQp</description>
+      <itunes:summary>Satya Nadella reveals it still haunts him that he sat through a Bill Gates review of an acquisition he thought was architecturally stupid and never made the case against it  "I remember another more consequential meeting. This was maybe 2008, 2009 maybe. Bill called a meeting. I https://t.co/RRxAeEvuQp</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2110166445548028093</link>
+      <guid isPermaLink="false">2110157883338010624</guid>
+      <pubDate>Wed, 14 Oct 2026 00:31:00 GMT</pubDate>
+      <itunes:duration>1:03</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261014-2110157883338010624.mp3" length="1001576" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - SATYA NADELLA: "People run around and say, oh, I'm AGI-pilled. I say,... #1</title>
+      <description>SATYA NADELLA: "People run around and say, oh, I'm AGI-pilled. I say, okay, what the heck does that mean?"  Nadella goes onto say that AI is turning Microsoft into a much more capital-intensive business with real marginal costs in software:  "The more of a person of authority you https://t.co/eT7Bq8mdYq</description>
+      <itunes:summary>SATYA NADELLA: "People run around and say, oh, I'm AGI-pilled. I say, okay, what the heck does that mean?"  Nadella goes onto say that AI is turning Microsoft into a much more capital-intensive business with real marginal costs in software:  "The more of a person of authority you https://t.co/eT7Bq8mdYq</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2110157289198162111</link>
+      <guid isPermaLink="false">2110156020316323840</guid>
+      <pubDate>Tue, 13 Oct 2026 23:54:37 GMT</pubDate>
+      <itunes:duration>1:17</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20261013-2110156020316323840.mp3" length="1236051" type="audio/mpeg" />
+    </item>
     <item>
       <title>Fireside Alpha - TikTok CEO reveals the overwhelming majority of short dramas are now ... #1</title>
       <description>TikTok CEO reveals the overwhelming majority of short dramas are now AI-produced, and says AI cuts the cost of a video ad from $100-$1,000 to $1-$10  "Right now, you know, it costs, if you were a brand company, say you're selling a particular product and you want to post a video https://t.co/V31j8l0yqW</description>
@@ -447,6 +469,17 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260926-2103909417905541120.mp3" length="1103763" type="audio/mpeg" />
     </item>
     <item>
+      <title>Fireside Alpha - $GOOG Tulsee Doshi says hype for Gemini 4 is building internally and ... #1</title>
+      <description>$GOOG Tulsee Doshi says hype for Gemini 4 is building internally and admits her team is balancing excitement and chaos as they work on the unreleased model  "I think within Gemini, there's a tension right now between the fact that we are really excited about the Gemini 4 model https://t.co/VRJ5espgKj</description>
+      <itunes:summary>$GOOG Tulsee Doshi says hype for Gemini 4 is building internally and admits her team is balancing excitement and chaos as they work on the unreleased model  "I think within Gemini, there's a tension right now between the fact that we are really excited about the Gemini 4 model https://t.co/VRJ5espgKj</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2101340826844684697</link>
+      <guid isPermaLink="false">2101338355116191744</guid>
+      <pubDate>Sat, 19 Sep 2026 16:01:08 GMT</pubDate>
+      <itunes:duration>1:21</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260919-2101338355116191744.mp3" length="1297683" type="audio/mpeg" />
+    </item>
+    <item>
       <title>Fireside Alpha - Gavin Baker says the physics PhDs calling orbital data centers imposs... #1</title>
       <description>Gavin Baker says the physics PhDs calling orbital data centers impossible on X have not out-thought the 10,000 SpaceX engineers who treat it as solved  "It's very hard for me to engage. There are all these people on X and they're like, I am a physics PhD and this is impossible." https://t.co/mKy496ZzCo</description>
       <itunes:summary>Gavin Baker says the physics PhDs calling orbital data centers impossible on X have not out-thought the 10,000 SpaceX engineers who treat it as solved  "It's very hard for me to engage. There are all these people on X and they're like, I am a physics PhD and this is impossible." https://t.co/mKy496ZzCo</itunes:summary>
@@ -456,6 +489,17 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Mon, 31 Aug 2026 14:51:43 GMT</pubDate>
       <itunes:duration>1:00</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260831-2094437352185946112.mp3" length="967303" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Pershing Square's Ryan Israel reveals there's an internal team includ... #1</title>
+      <description>Pershing Square's Ryan Israel reveals there's an internal team including Bill Ackman spending several hours a day looking for hedges to black-swan events, the most notable one during Covid returning ~100x for $2.6B  Currently: - nothing on at the moment - actively looking at a https://t.co/5V2DsIuljd</description>
+      <itunes:summary>Pershing Square's Ryan Israel reveals there's an internal team including Bill Ackman spending several hours a day looking for hedges to black-swan events, the most notable one during Covid returning ~100x for $2.6B  Currently: - nothing on at the moment - actively looking at a https://t.co/5V2DsIuljd</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2088459227165753829</link>
+      <guid isPermaLink="false">2088458618840735744</guid>
+      <pubDate>Sat, 15 Aug 2026 02:54:16 GMT</pubDate>
+      <itunes:duration>1:12</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260815-2088458618840735744.mp3" length="1147861" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Gavin Baker re $SPCX: Investors should start to consider Grok when th... #2</title>
@@ -478,6 +522,17 @@ Full segment w/ Satya Nadella and Sriram Krishnan https://t.co/3L7UGQsb6s</itune
       <pubDate>Sat, 15 Aug 2026 00:06:44 GMT</pubDate>
       <itunes:duration>1:26</itunes:duration>
       <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260815-2088416397747683328.mp3" length="1378323" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Fireside Alpha - Pershing Square CIO Ryan Israel sees hyperscaler earnings going much higher...</title>
+      <description>Pershing Square CIO Ryan Israel sees hyperscaler earnings going "much, much higher" several years out relative to analyst estimates, which he says are incredibly conservative. On hyperscaler capex and ROIC.</description>
+      <itunes:summary>Pershing Square CIO Ryan Israel sees hyperscaler earnings going "much, much higher" several years out relative to analyst estimates, which he says are incredibly conservative. On hyperscaler capex and ROIC.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://x.com/firesidealpha/status/2088136791807361381</link>
+      <guid isPermaLink="false">2088136103853502465</guid>
+      <pubDate>Fri, 14 Aug 2026 05:33:01 GMT</pubDate>
+      <itunes:duration>4:06</itunes:duration>
+      <enclosure url="https://alanhellogravel.github.io/fireside-alpha-clips/episodes/firesidealpha-20260815-2088136103853502465.mp3" length="3940247" type="audio/mpeg" />
     </item>
     <item>
       <title>Fireside Alpha - Sam Altman reveals he deliberately got himself addicted to TikTok whi... #1</title>
